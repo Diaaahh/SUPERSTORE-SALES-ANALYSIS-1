@@ -29,7 +29,7 @@ machine-learning-project/
 3. **EDA:** Visual insights using seaborn and matplotlib
 4. **Model Building:** Linear Regression, Decision Tree, Random Forest
 5. **Model Evaluation:** Using MAE, MSE, RMSE, R² Score
-6. **Model Saving:** Saved model files (optional)
+6. **Model Saving:** Saved model files 
 
 ---
 
@@ -78,9 +78,11 @@ pip install -r requirements.txt
 jupyter notebook notebooks/superstore_analysis.ipynb
 
 ✍️ Author
+
 Diya Nafren C
 
 📌 Future Work
+
 Hyperparameter tuning
 
 XGBoost and ensemble stacking
