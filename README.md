@@ -66,27 +66,17 @@ machine-learning-project/
 ## ▶️ How to Run the Project
 
 1. Clone this repository  
-```bash
 git clone https://github.com/yourusername/superstore-ml-project.git
 
-Navigate into the folder
-
-bash
-Copy
-Edit
+2.Navigate into the folder
 cd superstore-ml-project
-Install dependencies
 
-bash
-Copy
-Edit
+3.Install dependencies
 pip install -r requirements.txt
-Run the notebook or scripts
 
-bash
-Copy
-Edit
+4.Run the notebook or scripts
 jupyter notebook notebooks/superstore_analysis.ipynb
+
 ✍️ Author
 Diya Nafren C
 
@@ -97,11 +87,7 @@ XGBoost and ensemble stacking
 
 Model deployment using Flask or Streamlit
 
-yaml
-Copy
-Edit
 
----
 
 Let me know if you want:
 - The actual `requirements.txt` generated
