@@ -66,7 +66,7 @@ machine-learning-project/
 ## ▶️ How to Run the Project
 
 1. Clone this repository  
-git clone https://github.com/yourusername/superstore-ml-project.git
+git clone https://github.com/Diaaahh/SUPERSTORE-SALES-ANALYSIS-1
 
 2.Navigate into the folder
 cd superstore-ml-project
@@ -83,11 +83,11 @@ Diya Nafren C
 
 📌 Future Work
 
-Hyperparameter tuning
+- Hyperparameter tuning
 
-XGBoost and ensemble stacking
+- XGBoost and ensemble stacking
 
-Model deployment using Flask or Streamlit
+- Model deployment using Flask or Streamlit
 
 
 
